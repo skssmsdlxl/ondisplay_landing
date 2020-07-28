@@ -2,9 +2,9 @@
   "name": "with-styled-component-and-next-translate-in-typecsript",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next",
+    "dev": "next-translate && next",
     "build": "next-translate && next build",
-    "start": "next-translate && next start"
+    "start": "next start"
   },
   "dependencies": {
     "next": "latest",
